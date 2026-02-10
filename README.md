@@ -20,10 +20,10 @@ Custom I2C Sensor Emulation (Slave-Mode)
 
 Setup Tinkercad:
 
-- Open the Tinkercad link : 'https://www.tinkercad.com/things/gFadaWyQrgL-proiect-isca-final'
-- Import the 'master.ino' and 'slave.ino' files into their respective controllers.
-- Mirror the wiring shown in the 'docs/schematic.png'.
+- Open the Tinkercad link right here -> [https://www.tinkercad.com/things/gFadaWyQrgL-proiect-isca-final](#Temperature_&_Humidity_Control_System_I2C_Simulation).
+- Import the `master.ino` and `slave.ino` files into their respective controllers.
+- Mirror the wiring shown in the `docs/schematic.png`.
 
 ## Contributing
 
-This is an open-source project. Contributions regarding PID control implementation or OLED display support are welcome. Feel free to open an Issue or Submit a Pull Request.
+This is an open-source project. Contributions regarding PID control implementation or OLED display support are welcome. 
